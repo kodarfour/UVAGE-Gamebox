@@ -37,4 +37,4 @@ How to play and game information:
 
 Watch video below for a demo:
 
-![Demo video thumbnail](https://img.youtube.com/vi/dvznsLTuLQg/maxresdefault.jpg)(https://www.youtube.com/watch?v=dvznsLTuLQg)
+[![Demo video thumbnail](https://github.com/kodarfour/UVAGE-Gamebox/blob/main/demothumbnail.png?raw=true)](https://www.youtube.com/watch?v=dvznsLTuLQg)
