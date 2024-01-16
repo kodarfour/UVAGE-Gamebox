@@ -18,15 +18,18 @@ Supports simultaneous two-player mode at 30 FPS, utilizing a UVA-made api wrappe
 
 **<em>FINALLY: Run game.py and ENJOY!!</em>**
 How to play and game information:
- - Player 1 (left side) uses WASD keys to move
- - Player 2 (right side) uses ARROW keys to move
+ - Player One (left side) uses WASD keys to move
+   - Shoots purple laser Beams
+ - Player Two (right side) uses ARROW keys to move
+   - Shoots blue laser beams
+ - Laser beams automatically fire and will refire when a beam exits the boundary of the game
  - Sprite Guide:
    - Healing Sprite:
-     - Adds 10 HP back to health
+     - Adds 10 HP to health (health maxes out at 100)
      
      ![healthsprite image](https://github.com/kodarfour/UVAGE-Gamebox/blob/main/healthSprite.png?raw=true)
    - Damage Sprite:
-     - Removes 10 HP from health
+     - Removes 10 HP from health (player loses when health reaches 0)
      
      ![damagesprite image](https://github.com/kodarfour/UVAGE-Gamebox/blob/main/damageSprite.png?raw=true)
    - Slomo Sprite:
