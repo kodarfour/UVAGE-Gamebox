@@ -15,7 +15,7 @@ To install all required Python packages, run:
 
  - Listed above in the [Dependencies Section](https://github.com/kodarfour/UVAGE-Gamebox/tree/main?tab=readme-ov-file#dependencies)
 
-**<em>SECOND: Run uvage.py</em>**
+**<em>NEXT: Run uvage.py</em>**
 
  - This window should pop up if successful:
 
