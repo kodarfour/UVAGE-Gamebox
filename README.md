@@ -22,6 +22,7 @@ To install all required Python packages, run:
 ![uvage test popup image](https://github.com/kodarfour/UVAGE-Gamebox/blob/main/uvagewindow.png?raw=true)
 
 **<em>FINALLY: Run game.py and ENJOY!!</em>**
+
 How to play and game information:
  - Player One (left side) uses WASD keys to move
    - Shoots purple laser Beams
