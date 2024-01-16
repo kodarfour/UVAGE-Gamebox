@@ -23,16 +23,20 @@ How to play and game information:
  - Sprite Guide:
    - Healing Sprite:
      - Adds 10 HP back to health
-     - ![healthsprite image](https://github.com/kodarfour/UVAGE-Gamebox/blob/main/healthSprite.png?raw=true)
+     
+     ![healthsprite image](https://github.com/kodarfour/UVAGE-Gamebox/blob/main/healthSprite.png?raw=true)
    - Damage Sprite:
      - Removes 10 HP from health
-     - ![damagesprite image](https://github.com/kodarfour/UVAGE-Gamebox/blob/main/damageSprite.png?raw=true)
+     
+     ![damagesprite image](https://github.com/kodarfour/UVAGE-Gamebox/blob/main/damageSprite.png?raw=true)
    - Slomo Sprite:
      - Cuts off battleship engine and reduces movement speed
-     - ![slomosprite image](https://github.com/kodarfour/UVAGE-Gamebox/blob/main/slomoSprite.png?raw=true)
+     
+     ![slomosprite image](https://github.com/kodarfour/UVAGE-Gamebox/blob/main/slomoSprite.png?raw=true)
    - Boost Sprite:
      - Powers battleship engine and increases movement speed
-     - ![boostsprite image](https://github.com/kodarfour/UVAGE-Gamebox/blob/main/speedSprite.png?raw=true)
+     
+     ![boostsprite image](https://github.com/kodarfour/UVAGE-Gamebox/blob/main/speedSprite.png?raw=true)
 
 # Demo 
 
