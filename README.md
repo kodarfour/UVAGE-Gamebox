@@ -13,7 +13,8 @@ Supports simultaneous two-player mode at 30 FPS, utilizing a UVA-made api wrappe
 **<em>SECOND: Run uvage.py</em>**
 
  - This window should pop up if succesful:
-    ![uvage test popup image](https://github.com/kodarfour/UVAGE-Gamebox/blob/main/uvagewindow.png?raw=true)
+  <br>
+  ![uvage test popup image](https://github.com/kodarfour/UVAGE-Gamebox/blob/main/uvagewindow.png?raw=true)
 
 **<em>FINALLY: Run game.py and ENJOY!!</em>**
 How to play and game information:
