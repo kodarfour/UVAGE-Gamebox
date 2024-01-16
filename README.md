@@ -4,6 +4,9 @@ An outerspace, shooter game with health-based competition that utilizes 8-bit gr
 Supports simultaneous two-player mode at 30 FPS, utilizing a UVA-made api wrapper for pygame
 
 # Dependencies:
+
+To install all required Python packages, run:  
+> pip install -r requirements.txt
 - [pygame 2.5.0+](https://www.pygame.org/wiki/GettingStarted)
 - [Python 3.10.2+](https://www.python.org/downloads/)
 
@@ -11,6 +14,7 @@ Supports simultaneous two-player mode at 30 FPS, utilizing a UVA-made api wrappe
 **<em>FIRST: Install Dependencies</em>**
 
  - Listed above in the [Dependencies Section](https://github.com/kodarfour/UVAGE-Gamebox/tree/main?tab=readme-ov-file#dependencies)
+ - 
 
 **<em>SECOND: Run uvage.py</em>**
 
