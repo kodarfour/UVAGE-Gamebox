@@ -5,7 +5,7 @@ Supports simultaneous two-player mode at 30 FPS, utilizing a UVA-made api wrappe
 
 # Dependencies:
 
-To install all required Python packages, run:  
+To install all required Python packages, navigate to the appropriate directory and run:
 > pip install -r requirements.txt
 - [pygame 2.5.0+](https://www.pygame.org/wiki/GettingStarted)
 - [Python 3.7+](https://www.python.org/downloads/)
