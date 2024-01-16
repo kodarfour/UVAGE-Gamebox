@@ -8,11 +8,13 @@ Supports simultaneous two-player mode at 30 FPS, utilizing a UVA-made api wrappe
 - [Python 3.10.2+](https://www.python.org/downloads/)
 
 # Instructions:
-**<em>FIRST: Install Dependencies and set up virtualenv for Flask</em>**
+**<em>FIRST: Install Dependencies</em>**
+
+ - Listed above in the [Dependencies Section](https://github.com/kodarfour/UVAGE-Gamebox/tree/main?tab=readme-ov-file#dependencies)
 
 **<em>SECOND: Run uvage.py</em>**
 
- - This window should pop up if succesful:
+ - This window should pop up if successful:
 
 ![uvage test popup image](https://github.com/kodarfour/UVAGE-Gamebox/blob/main/uvagewindow.png?raw=true)
 
