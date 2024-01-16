@@ -13,7 +13,7 @@ Supports simultaneous two-player mode at 30 FPS, utilizing a UVA-made api wrappe
 **<em>SECOND: Run uvage.py</em>**
 
  - This window should pop up if succesful:
- - ![uvage test popup image](https://github.com/kodarfour/UVAGE-Gamebox/blob/main/uvagewindow.png?raw=true)
+    ![uvage test popup image](https://github.com/kodarfour/UVAGE-Gamebox/blob/main/uvagewindow.png?raw=true)
 
 **<em>FINALLY: Run game.py and ENJOY!!</em>**
 How to play and game information:
@@ -22,19 +22,19 @@ How to play and game information:
  - Sprite Guide:
    - Healing Sprite:
      - Adds 10 HP back to health
-     - ![healthsprite image](https://github.com/kodarfour/UVAGE-Gamebox/blob/main/healthSprite.png?raw=true)
+        ![healthsprite image](https://github.com/kodarfour/UVAGE-Gamebox/blob/main/healthSprite.png?raw=true)
    - Damage Sprite:
      - Removes 10 HP from health
-     - ![damagesprite image](https://github.com/kodarfour/UVAGE-Gamebox/blob/main/damageSprite.png?raw=true)
+        ![damagesprite image](https://github.com/kodarfour/UVAGE-Gamebox/blob/main/damageSprite.png?raw=true)
    - Slomo Sprite:
      - Cuts off battleship engine and reduces movement speed
-     - ![slomosprite image](https://github.com/kodarfour/UVAGE-Gamebox/blob/main/slomoSprite.png?raw=true)
+        ![slomosprite image](https://github.com/kodarfour/UVAGE-Gamebox/blob/main/slomoSprite.png?raw=true)
    - Boost Sprite:
      - Powers battleship engine and increases movement speed
-     - ![boostsprite image](https://github.com/kodarfour/UVAGE-Gamebox/blob/main/speedSprite.png?raw=true)
+        ![boostsprite image](https://github.com/kodarfour/UVAGE-Gamebox/blob/main/speedSprite.png?raw=true)
 
 # Demo 
 
 Watch video below for a demo:
 
-[![Demo video thumbnail](https://img.youtube.com/vi/dvznsLTuLQg/maxresdefault.jpg)](https://www.youtube.com/watch?v=dvznsLTuLQg)
+![Demo video thumbnail](https://img.youtube.com/vi/dvznsLTuLQg/maxresdefault.jpg)(https://www.youtube.com/watch?v=dvznsLTuLQg)
